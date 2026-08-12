@@ -14,6 +14,8 @@ Automated cervical cancer screening using domain-specific transfer learning on m
 - **Primary Dataset:** PathMNIST / SIPAKMED Cytology Dataset
 - **Classes:** Normal vs. Pathological / Dysplastic Cells
 
+<img width="636" height="657" alt="sample1" src="https://github.com/user-attachments/assets/12900fac-4317-4f90-ab6c-743f3220e7c4" />
+
 ## Tech Stack
 - **Language:** Python 3.10+
 - **Frameworks:** PyTorch, torchvision
