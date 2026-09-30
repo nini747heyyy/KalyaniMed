@@ -1,5 +1,9 @@
 .vscode/
 outputs/
 pathmnist_resnet18.pth
-src/__pycache__/
-*.pyc
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.ipynb_checkpoints/
