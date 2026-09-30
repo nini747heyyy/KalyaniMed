@@ -1,1 +1,5 @@
-.vscode/settings.json
+.vscode/
+outputs/
+pathmnist_resnet18.pth
+src/__pycache__/
+*.pyc

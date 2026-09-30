@@ -1,0 +1,9 @@
+torch
+torchvision
+medmnist
+opencv-python
+matplotlib
+scikit-learn
+numpy
+grad-cam
+ttach
